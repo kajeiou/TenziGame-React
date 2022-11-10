@@ -1,0 +1,8 @@
+.De button {
+    padding: 15px;
+    width: 60px;
+    height: 60px;
+    border-radius: 10%;
+    border:0;
+    margin:10px;
+}
